@@ -33,7 +33,7 @@ This means that:
   that you created them when you did not).
 
 Note that this only a brief summary: for the full licensing conditions, you
-must read the [licence](https://github.com/microbit-foundation/microbit-v2-hardware/blob/main/CC%20BY-SA%204.0)
+must read the [licence](https://github.com/microbit-foundation/microbit-v2-hardware/blob/main/LICENSE.md)
 
 Trademarks (including the micro:bit logo) are licensed separately under different terms.
 
