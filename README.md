@@ -10,7 +10,7 @@ the schematic contained in this repository.
 
 * [Overview of the hardware](https://tech.microbit.org/hardware/)
 * [Walk-through of the schematic](https://tech.microbit.org/hardware/schematic/)
-* [V2 board test points](https://tech.microbit.org/hardware/schematic/)
+* [V2 board test points](https://tech.microbit.org/hardware/schematic/#test-point-map)
 * [A reference-design based on the micro:bit](https://tech.microbit.org/hardware/reference-design/)
 which includes layout and gerbers and is based on a module for easy fabrication. **Please note that this is currently not available for micro:bit V2.**
 
