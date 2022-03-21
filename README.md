@@ -15,7 +15,7 @@ the schematic contained in this repository.
 which includes layout and gerbers and is based on a module for easy fabrication. **Please note that this is currently not available for micro:bit V2.**
 
 ### Licensing
-Tese files are subject to copyright, and are licensed to you according to certain conditions that you must adhere to if you wish to do anything which
+These files are subject to copyright, and are licensed to you according to certain conditions that you must adhere to if you wish to do anything which
 means redistributing them in whole or part, including derived versions.
 
 The copyright holder is the Micro:bit Educational Foundation.
