@@ -1,0 +1,52 @@
+NO,Item,Description,Usage,MANUFACTURER,MANUFACTURER PN,Location
+1,PCB,"PCB 2 Layer, Black solder mask with white silkscreen, matte finish ENIG 42x52mm",1,AVL,micro:bit PCB V2.21,PCB1
+2,Ceramic Capacitor,Ceramic Capacitor 0.1µF 10% 25V X5R 0402,15,TAIYO YUDEN,TMK105BJ104KV-F,"C5, C8, C10, C14, C16, C17, C19, C23, C25, C26, C28, C29, C31, C32, C52"
+3,Ceramic Capacitor,Ceramic Capacitor 0.3pF ±0.1pF 50V 0402 C0G/NP0,1,KEMET,CBR04C308B5GAC,C11
+4,Ceramic Capacitor,Ceramic Capacitor 10000pF 10% 25V X7R 0402,1,MURATA,GRM155R71E103KA01D,C40
+5,Ceramic Capacitor,Ceramic Capacitor 1000pF 5% 50V 0402 C0G/NP0,1,SAMSUNG,CL05C102JB5NNNC,C38
+6,Ceramic Capacitor,Ceramic Capacitor 100pF 5% 50V 0402 C0G/NP0,5,SAMSUNG,CL05C101JB5NNNC,"C9, C56, C57, C58, C59"
+7,Ceramic Capacitor,Ceramic Capacitor 10UF 6.3V 20% X5R 0603,1,MURATA,GRM188R60J106ME47D,C21
+8,Ceramic Capacitor,Ceramic Capacitor 4.7UF 10V 10% X5R 0603,1,SAMSUNG,CL10A475KP8NNNC,C39
+9,Ceramic Capacitor,Ceramic Capacitor 4.7uF 20% 6.3V X5R 0402,7,TDK,C1005X5R0J475M,"C6, C15, C20, C30, C34, C36, C47"
+10,Ceramic Capacitor,Ceramic Capaitor 24pF 5% 50V 0402 C0G/NP0,5,SAMSUNG,CL05C240JB5NNNC,"C2, C4, C7, C41, C42"
+11,Ceramic Capacitor,Ceramic Capcitor 1µF 10% 6.3V X5R 0402,4,YAGEO,CC0402KRX5R5BB105,"C1, C37, C43, C54"
+12,Connector,2 Pin RA 2mm SMT Connector,1,MTCONN,WB200SW-02SR01,J2
+13,Crystal,Crystal 32MHz 3.2X2.5X0.6mm 4-Pad,2,AEL,X32M000000S045,"X1, X2"
+14,Diode,Diode 3A Schottky with extreme low V  F drop (typ. 0.12V at IF = 10mA),1,STMICROELECTRONICS,BAT60JFILM,D51
+15,Diode,Diode 3A Schottky with extreme low V F drop (typ. 0.12V at IF = 10mA),2,INFINEON,BAT 60A E6327,"D57, D59"
+16,Diode,Diode general purpose single switching 100V 4A,1,NEXPERIA,"BAS16LD,315",D5
+17,Diode,Diode Schottky low forward voltage drop SOT523,1,DIODES INCORPORATED,BAT54T-7-F,D1
+18,Diode,TVS Diode high surge bidirectional,4,DIODES INCORPORATED,D5V0H1B2LP-7B,"D71, D72, D73, D74"
+19,Diode,Ultra low capacitance double rail-to-rail ESD protection device,1,NEXPERIA,PRTR5V0U2F_115,D62
+20,Inductor,Inductor chip 10uH 20% IDC min = 50 mA,2,MURATA,LQM18FN100M00D,"L1, L2"
+21,Inductor,Inductor CMC 150mA 90ohms SMT 1210,1,TAIYO YUDEN,MCF12102H900-T,L5
+22,Inductor,Inductor RF 4.7nH ±0.3NH 700mA 180mOhm Max 0402 ,2,MURATA,LQG15HS4N7S02D,"L3, L7"
+23,LED,LED Red colourless dome 0603,26,EVERLIGHT,19-217/R6C-AL1M2VY/3T,"D2, D4, D6, D8, D10, D12, D14, D16, D18, D20, D22, D24, D26, D28, D30, D32, D34, D36, D38, D40, D42, D44, D46, D48, D50, D60"
+24,LED,LED Red side view SMT,1,EVERLIGHT,48-213/RAC-BP2Q2VY/3C,D70
+25,LED,LED Yellow 590nm 0603,1,EVERLIGHT,19-217/Y5C-AM1N1VY/3T,D61
+26,MCU,"Multi-protocol Bluetooth Low Energy, ANT and 2.4GHz proprietary system-on-chip",1,NORDIC SEMICONDUCTOR,nRF52833-QIAA-R,U2
+27,MCU,"Multi-protocol Bluetooth Low Energy, ANT and 2.4GHz proprietary system-on-chip",1,NORDIC SEMICONDUCTOR,nRF52820-QDAA-R,U5
+28,Microphone,Analog Microphone omnidirectional 1.5V - 3.6V,1,KNOWLES,SPU0410LR5H-QB-7,U4
+29,Resistor,Resistor 100R 5% 125mW 0402 Thick Film,1,YAGEO,RC0805JR--07100RL,R59
+30,Resistor,Resistor 10M 1% 62.5mW 0402 Thick Film,4,MULTICOMP,MCWR04X1005FTL,"R7, R8, R9, R53"
+31,Resistor,Resistor 0R 5% 62.5mW 0402 Thick Film,3,MULTICOMP,MCSR04X000 PTL,"R13, R47, R54"
+32,Resistor,Resistor 100K 1% 62.5mW 0402 Thick Film,2,MULTICOMP,MCWR04X1003FTL,"R17, R24"
+33,Resistor,Resistor 105R 1% 100mW 0402 Thick Film,6,PANASONIC,ERJ2RKF1050X,"R11, R28, R45, R46, R48, R49"
+34,Resistor,Resistor 10K 1% 62.5mW 0402 Thick Film,7,MULTICOMP,MC00625W0402110K,"R3, R4, R5, R19, R22, R37, R61"
+35,Resistor,Resistor 10R 5% 62.5mW 0402 Thick Film,1,YAGEO,RC0402JR-0710RL,R60
+36,Resistor,Resistor 120R 5% 100mW 0603 Thick Film,1,YAGEO,RC0603JR-07120RL,R16
+37,Resistor,Resistor 1K 1% 62.5mW 0402 Thick Film,3,MULTICOMP,MC00625W040211K,"R51, R52, R63"
+38,Resistor,Resistor 220R 1% 100mW 0402 Thick Film,2,PANASONIC,ERJ-2RKF2200X,"R38, R39"
+39,Resistor,Resistor 33K 5% 62.5mW 0402 Thick Film,3,YAEGO,RC0402JR-0733KL,"R27, R50, R62"
+40,Resistor,Resistor 4.7K 1% 62.5mW 0402 Thick Film,3,MULTICOMP,MC00625W040214K7,"R1, R2, R55"
+41,Resistor,Resistor 4.7R 1% 62.5mW 0402 Thick Film,1,YAGEO,RC0402FR-074R7L,R6
+42,Resistor,Resistor 47K 5% 62.5mW 0402 Thick Film,1,YAGEO,RC0402JR-0747KL,R15
+43,Resistor,Resistor 68R 5% 62.5mW 0402 Thick Film,1,YAGEO,RC0402JR-0768RL,R58
+44,Sensor,"MEMS Module 3-Axis Accelerometer, 3-Axis Magnetometer 1.71 V to 3.6 V, ± 16g LGA-12",1,ST,LSM303AGRTR,U6
+45,Speaker,Speaker magnetic 9mm SMT,1,JIANGSU HUANENG,MLT-8530,SP1
+46,Tactile Switch,Switch Tactile SPST 6mm J Lead,3,DIPTRONICS,DTSJ-61K-Q-T/R,"SW1, SW2, SW3"
+47,Transistor,MOSFET N-Channel 20V 1.4A SOT-323-3,1,INFINEON,BSS816NW,T2
+48,Transistor,Transistor NPN 100mA 50V DC Single 3-Pin SC-75,4,ON SEMICONDUCTOR,DTC143EET1G,"T3, T4, T5, T7"
+49,Transistor,Transistor PNP 50V 100mA 200mW SC-75,1,ON SEMICONDUCTOR,DTA143ZET1G,T1
+50,USB Connector,"USB Connector, Micro USB Type AB SMT RA",1,Adam Tech,MCR-B-S-RA-SMT-CS5-T/R,J3
+51,Voltage Regulator,LDO Voltage Regulator 3.3V 300 mA CMOS WITH ENABLE,1,ON SEMI,NCP114BMX330TCG,U3
